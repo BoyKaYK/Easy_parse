@@ -1,0 +1,1 @@
+{name:[master],price:20},{name:[mister],price:20}.
