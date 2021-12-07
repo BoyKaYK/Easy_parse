@@ -1,0 +1,1 @@
+{name:[AK],price:20},{name:[AWP],price:250},{name:[P-90],price:0.05},{name:[Glock],price:255},{name:[USP-S],price:284},{name:[M4A4],price:2.5},{name:[Bizon],price:2.15},{name:[Galil],price:5.5}.
